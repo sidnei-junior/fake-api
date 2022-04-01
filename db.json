@@ -1,0 +1,14 @@
+{
+    "menuOptions": [
+        {
+            "name": "Feijão",
+            "options": [
+                "Feijão Carioca",
+                "Feijão Preto"
+            ]
+        },
+        {
+            "name": "Salada Verde"
+        }
+    ]
+}
